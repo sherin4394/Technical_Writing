@@ -33,7 +33,6 @@ Following are the Agile ceremonies:
 
 <br/> **3.	Sprint Review**
 <br/> The Sprint Review meeting is conducted at the end of every sprint. It is advised to conduct regular Sprint review meetings (in most cases two weeks). The team can also set the next sprint goals and highlight the possible risks and issues in this meeting. This is the time for the team to celebrate their accomplishments. 
-
 <br/> **Purpose:** Demonstrate the tasks completed so far and get feedback from the stakeholders, which is used for making improvements
 <br/> **Participants:** Development team members, product owner, scrum master, and project stakeholder (optional)
 <br/> **Duration:** one hour (For example, two-hour review following a two-week sprint)
