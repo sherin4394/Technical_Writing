@@ -15,7 +15,7 @@ The basic idea of Agile methodology is the continuous delivery of working softwa
 The target audience for this document is intended to anyone who wants to gain knowledge on Agile Ceremonies.
 ## Types of Agile Ceremonies
 The following block diagram depicts the four Agile ceremonies and their purposes.
- 
+![Ceremonies](https://user-images.githubusercontent.com/99114569/153358383-50026363-1739-4a22-9f97-6c629b0830a0.jpg)
 Following are the Agile ceremonies:
 
 <br/> **1.	Sprint Planning**
