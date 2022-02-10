@@ -17,13 +17,12 @@ The target audience for this document is intended to anyone who wants to gain kn
 The following block diagram depicts the four Agile ceremonies and their purposes.
 ![Ceremonies](https://user-images.githubusercontent.com/99114569/153358383-50026363-1739-4a22-9f97-6c629b0830a0.jpg)
 Following are the Agile ceremonies:
-
 <br/> **1.	Sprint Planning**
 <br/> The Sprint Planning meeting happens at the beginning of a sprint. In this meeting, the team is assigned work from the product backlog, which contains a list of prioritized tasks. Each task is discussed with the team members and they collectively decide on the estimated time required for each task. The team creates a Sprint backlog which contains the list of tasks to be implemented during the current Sprint.
 <br/> **Purpose:** Determine which backlog item will be handled in the next sprint 
 <br/> **Participants:** Development team members, product owner, and scrum master
 <br/> **Duration:** Usually one hour for a one-week sprint, two hours for a two-week sprint, and so on
-<br/> **Note:** The product owner, development team, and the stakeholder prioritize the tasks in the product backlog before the sprint planning. This is an ongoing process known as backlog refinement. 
+<br/> _**Note:** The product owner, development team, and the stakeholder prioritize the tasks in the product backlog before the sprint planning. This is an ongoing process known as backlog refinement._ 
 
 <br/> **2.	Daily Stand-up**
 <br/> The Daily Stand-up meeting is held at the same time. This meeting helps the team members to discuss and monitor their progress to achieve the sprint goal. In this meeting, each team member provides the highlights of tasks completed the previous day, planned tasks for the day, and any issues or risks that deter them, their team, or the delivery. 
@@ -36,7 +35,7 @@ Following are the Agile ceremonies:
 <br/> **Purpose:** Demonstrate the tasks completed so far and get feedback from the stakeholders, which is used for making improvements
 <br/> **Participants:** Development team members, product owner, scrum master, and project stakeholder (optional)
 <br/> **Duration:** one hour (For example, two-hour review following a two-week sprint)
-<br/> **Note:** The work should be fully demonstrable and meet the quality standards set by the team. The feedback received from the stakeholders can be used to modify the product backlog.
+<br/> _**Note:** The work should be fully demonstrable and meet the quality standards set by the team. The feedback received from the stakeholders can be used to modify the product backlog._
 
 <br/> **4.	Sprint Retrospective**
 <br/> The Sprint Retrospective meeting happens at the end of every sprint. This meeting helps to develop, deliver or manage complex projects.
